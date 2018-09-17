@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+span{
+    color:gold;
+}
+div{
+    border: 1px solid #a7a7a7;
+    /* padding: 100px; */
+    margin: 20px;
+    background-color: #dedede;
+    display: inline-block;
+    height: 240px;
+    width: 380px;
+    overflow: hidden;
+    cursor: pointer;
+    box-shadow: 0 5px 10px rgba(0,0,0, .32);
+}
+body{
+    text-align: center;
+}
